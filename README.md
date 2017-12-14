@@ -1,11 +1,13 @@
 [image1]: ./test_images_output/solidWhiteCurve.jpg "solidWhiteCurve output"
 
 # **Lane_Line_Detection** 
+
 Udacity Self Driving Car Project 1.
 
 Finding lane_lines with simple opencv functions.
 
 ## Prerequisite
+
 * Opencv >= 3.1.0
 * Jupyter notebook
 
