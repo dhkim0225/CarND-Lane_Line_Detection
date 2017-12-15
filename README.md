@@ -2,7 +2,7 @@
 
 # **Lane_Line_Detection** 
 
-Udacity Self Driving Car Project 1.
+Udacity Self Driving Car **Project 1**.
 
 Finding lane_lines with simple opencv functions.
 
@@ -49,4 +49,4 @@ A straight line was drawn by averaging all the slope and bias values ​​obtai
 3. If an edge with a large difference in slope is founded, exclude it from the calculation. It can reduce noises. 
 
 ## MIT LICENSE
-See more about [license](./LICENSE)
+See more about [license](./LICENSE).
